@@ -1,0 +1,1009 @@
+[
+  {
+    "id": "google",
+    "name": "Google",
+    "tier": 1,
+    "minCGPA": 8.5,
+    "packageRangeLPA": [
+      20,
+      45
+    ],
+    "domain": "Product / Software",
+    "skills": [
+      "Data Structures & Algorithms",
+      "System Design",
+      "Distributed Systems"
+    ],
+    "certifications": [
+      {
+        "id": "google-cert-1",
+        "name": "Google Cloud Associate Engineer",
+        "bullet": "Google Cloud Certified Associate Cloud Engineer — deployed and managed applications on GCP",
+        "url": "https://cloud.google.com/certification/cloud-engineer"
+      }
+    ],
+    "projects": [
+      {
+        "id": "google-proj-1",
+        "title": "Scalable URL Shortener",
+        "bullet": "Built a URL-shortening service handling 10k+ req/min using caching and load balancing, demonstrating system design fundamentals"
+      },
+      {
+        "id": "google-proj-2",
+        "title": "Competitive Programming Profile",
+        "bullet": "Solved 300+ DSA problems on LeetCode/Codeforces (rating in top 10%), showcasing strong problem-solving ability"
+      }
+    ],
+    "website": "https://careers.google.com"
+  },
+  {
+    "id": "microsoft",
+    "name": "Microsoft",
+    "tier": 1,
+    "minCGPA": 8,
+    "packageRangeLPA": [
+      18,
+      40
+    ],
+    "domain": "Product / Software",
+    "skills": [
+      "Data Structures & Algorithms",
+      "C#/.NET or C++",
+      "System Design"
+    ],
+    "certifications": [
+      {
+        "id": "ms-cert-1",
+        "name": "Microsoft Certified: Azure Fundamentals (AZ-900)",
+        "bullet": "Microsoft Certified: Azure Fundamentals — validated cloud computing concepts and Azure services",
+        "url": "https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/"
+      }
+    ],
+    "projects": [
+      {
+        "id": "ms-proj-1",
+        "title": "Full-Stack App on Azure",
+        "bullet": "Deployed a full-stack web application on Azure App Service with CI/CD via GitHub Actions"
+      }
+    ],
+    "website": "https://careers.microsoft.com"
+  },
+  {
+    "id": "amazon",
+    "name": "Amazon",
+    "tier": 1,
+    "minCGPA": 7.5,
+    "packageRangeLPA": [
+      12,
+      30
+    ],
+    "domain": "Product / E-commerce / Cloud",
+    "skills": [
+      "Data Structures & Algorithms",
+      "Leadership Principles (behavioral)",
+      "AWS basics"
+    ],
+    "certifications": [
+      {
+        "id": "amz-cert-1",
+        "name": "AWS Certified Cloud Practitioner",
+        "bullet": "AWS Certified Cloud Practitioner — foundational understanding of AWS cloud services and architecture",
+        "url": "https://aws.amazon.com/certification/certified-cloud-practitioner/"
+      }
+    ],
+    "projects": [
+      {
+        "id": "amz-proj-1",
+        "title": "Inventory Management System on AWS",
+        "bullet": "Designed an inventory management system using AWS Lambda, DynamoDB, and API Gateway"
+      }
+    ],
+    "website": "https://www.amazon.jobs"
+  },
+  {
+    "id": "adobe",
+    "name": "Adobe",
+    "tier": 1,
+    "minCGPA": 8,
+    "packageRangeLPA": [
+      15,
+      35
+    ],
+    "domain": "Product / Software",
+    "skills": [
+      "Data Structures & Algorithms",
+      "OOP Design",
+      "Web Technologies"
+    ],
+    "certifications": [
+      {
+        "id": "adobe-cert-1",
+        "name": "Meta Front-End Developer Certificate",
+        "bullet": "Meta Front-End Developer Professional Certificate — built responsive UIs with React",
+        "url": "https://www.coursera.org/professional-certificates/meta-front-end-developer"
+      }
+    ],
+    "projects": [
+      {
+        "id": "adobe-proj-1",
+        "title": "Image Editing Web Tool",
+        "bullet": "Built a browser-based image editing tool using Canvas API and React, replicating core Photoshop features"
+      }
+    ],
+    "website": "https://www.adobe.com/careers.html"
+  },
+  {
+    "id": "cisco",
+    "name": "Cisco",
+    "tier": 2,
+    "minCGPA": 7.5,
+    "packageRangeLPA": [
+      8,
+      16
+    ],
+    "domain": "Networking / Security",
+    "skills": [
+      "Networking fundamentals",
+      "Linux",
+      "Python scripting"
+    ],
+    "certifications": [
+      {
+        "id": "cisco-cert-1",
+        "name": "Cisco CCNA",
+        "bullet": "Cisco Certified Network Associate (CCNA) — networking fundamentals, routing and switching",
+        "url": "https://www.cisco.com/site/us/en/learn/training-certifications/certifications/associate/ccna/index.html"
+      }
+    ],
+    "projects": [
+      {
+        "id": "cisco-proj-1",
+        "title": "Network Simulation Lab",
+        "bullet": "Simulated a multi-router enterprise network in Cisco Packet Tracer with VLANs and ACLs configured"
+      }
+    ],
+    "website": "https://jobs.cisco.com"
+  },
+  {
+    "id": "paloalto",
+    "name": "Palo Alto Networks",
+    "tier": 2,
+    "minCGPA": 7.5,
+    "packageRangeLPA": [
+      10,
+      22
+    ],
+    "domain": "Cybersecurity",
+    "skills": [
+      "Networking",
+      "Security fundamentals",
+      "Python"
+    ],
+    "certifications": [
+      {
+        "id": "pan-cert-1",
+        "name": "CompTIA Security+",
+        "bullet": "CompTIA Security+ Certified — core cybersecurity principles including threats, risk management, and cryptography",
+        "url": "https://www.comptia.org/certifications/security"
+      }
+    ],
+    "projects": [
+      {
+        "id": "pan-proj-1",
+        "title": "Home SOC Lab",
+        "bullet": "Built a home Security Operations Center lab using Splunk/ELK for log analysis and threat detection"
+      },
+      {
+        "id": "pan-proj-2",
+        "title": "Vulnerability Scanner",
+        "bullet": "Developed a Python-based network vulnerability scanner identifying open ports and known CVEs"
+      }
+    ],
+    "website": "https://jobs.paloaltonetworks.com"
+  },
+  {
+    "id": "crowdstrike",
+    "name": "CrowdStrike",
+    "tier": 2,
+    "minCGPA": 7.5,
+    "packageRangeLPA": [
+      10,
+      22
+    ],
+    "domain": "Cybersecurity",
+    "skills": [
+      "Endpoint security",
+      "Threat hunting",
+      "Python/Go"
+    ],
+    "certifications": [
+      {
+        "id": "cs-cert-1",
+        "name": "CompTIA Security+",
+        "bullet": "CompTIA Security+ Certified — validated skills in threat detection and incident response",
+        "url": "https://www.comptia.org/certifications/security"
+      }
+    ],
+    "projects": [
+      {
+        "id": "cs-proj-1",
+        "title": "Malware Analysis Sandbox",
+        "bullet": "Set up an isolated sandbox to analyze sample malware behavior and document IOCs"
+      }
+    ],
+    "website": "https://www.crowdstrike.com/careers/"
+  },
+  {
+    "id": "ibm",
+    "name": "IBM",
+    "tier": 2,
+    "minCGPA": 7,
+    "packageRangeLPA": [
+      6,
+      14
+    ],
+    "domain": "IT Services / Cloud / Security",
+    "skills": [
+      "Cloud basics",
+      "Data structures",
+      "Communication"
+    ],
+    "certifications": [
+      {
+        "id": "ibm-cert-1",
+        "name": "IBM Cybersecurity Analyst (Coursera)",
+        "bullet": "IBM Cybersecurity Analyst Professional Certificate — SIEM tools, incident response, network security",
+        "url": "https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst"
+      }
+    ],
+    "projects": [
+      {
+        "id": "ibm-proj-1",
+        "title": "Log Analysis Dashboard",
+        "bullet": "Built a dashboard to visualize and flag anomalies from system logs using Python and Elasticsearch"
+      }
+    ],
+    "website": "https://www.ibm.com/careers"
+  },
+  {
+    "id": "deloitte",
+    "name": "Deloitte",
+    "tier": 2,
+    "minCGPA": 7,
+    "packageRangeLPA": [
+      6,
+      12
+    ],
+    "domain": "Consulting / Cybersecurity",
+    "skills": [
+      "Business communication",
+      "Security fundamentals",
+      "Risk analysis"
+    ],
+    "certifications": [
+      {
+        "id": "del-cert-1",
+        "name": "Certified Ethical Hacker (CEH) — in progress",
+        "bullet": "Pursuing Certified Ethical Hacker (CEH) — penetration testing methodology and tools",
+        "url": "https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh/"
+      }
+    ],
+    "projects": [
+      {
+        "id": "del-proj-1",
+        "title": "Security Risk Assessment Report",
+        "bullet": "Conducted a mock security risk assessment for a sample organization, documenting vulnerabilities and mitigations"
+      }
+    ],
+    "website": "https://www2.deloitte.com/global/en/careers.html"
+  },
+  {
+    "id": "ey",
+    "name": "EY",
+    "tier": 2,
+    "minCGPA": 7,
+    "packageRangeLPA": [
+      5,
+      10
+    ],
+    "domain": "Consulting / IT Audit",
+    "skills": [
+      "Communication",
+      "Basic security/audit concepts",
+      "Excel/PowerPoint"
+    ],
+    "certifications": [
+      {
+        "id": "ey-cert-1",
+        "name": "ISO 27001 Foundation",
+        "bullet": "ISO 27001 Foundation Certified — information security management systems basics",
+        "url": "https://www.iso.org/standard/27001"
+      }
+    ],
+    "projects": [
+      {
+        "id": "ey-proj-1",
+        "title": "Compliance Checklist Tool",
+        "bullet": "Built a simple web tool to track IT compliance checklist items against ISO 27001 controls"
+      }
+    ],
+    "website": "https://www.ey.com/en_gl/careers"
+  },
+  {
+    "id": "accenture",
+    "name": "Accenture",
+    "tier": 3,
+    "minCGPA": 6.5,
+    "packageRangeLPA": [
+      4.5,
+      9
+    ],
+    "domain": "IT Services",
+    "skills": [
+      "Programming fundamentals",
+      "Communication",
+      "Aptitude"
+    ],
+    "certifications": [
+      {
+        "id": "acc-cert-1",
+        "name": "HackerRank Skill Certification (Problem Solving)",
+        "bullet": "HackerRank Certified in Problem Solving — validated logical and coding ability",
+        "url": "https://www.hackerrank.com/skills-verification"
+      }
+    ],
+    "projects": [
+      {
+        "id": "acc-proj-1",
+        "title": "CRUD Web App",
+        "bullet": "Built a full CRUD web application with authentication using React and Node.js"
+      }
+    ],
+    "website": "https://www.accenture.com/in-en/careers"
+  },
+  {
+    "id": "tcs-digital",
+    "name": "TCS Digital",
+    "tier": 3,
+    "minCGPA": 6.5,
+    "packageRangeLPA": [
+      7,
+      9
+    ],
+    "domain": "IT Services (Digital)",
+    "skills": [
+      "Programming",
+      "Aptitude",
+      "Communication"
+    ],
+    "certifications": [
+      {
+        "id": "tcsd-cert-1",
+        "name": "NPTEL/Coursera course in a chosen tech stack",
+        "bullet": "Completed an NPTEL certification relevant to chosen specialization",
+        "url": "https://nptel.ac.in"
+      }
+    ],
+    "projects": [
+      {
+        "id": "tcsd-proj-1",
+        "title": "E-commerce Website",
+        "bullet": "Developed a full-stack e-commerce website with cart, checkout, and admin panel"
+      }
+    ],
+    "website": "https://www.tcs.com/careers"
+  },
+  {
+    "id": "wipro",
+    "name": "Wipro",
+    "tier": 3,
+    "minCGPA": 6,
+    "packageRangeLPA": [
+      3.5,
+      6.5
+    ],
+    "domain": "IT Services",
+    "skills": [
+      "Programming fundamentals",
+      "Aptitude",
+      "Communication"
+    ],
+    "certifications": [
+      {
+        "id": "wip-cert-1",
+        "name": "Wipro Elite NTH prep course completion",
+        "bullet": "Completed structured aptitude and coding prep aligned with Wipro's hiring process",
+        "url": "https://careers.wipro.com"
+      }
+    ],
+    "projects": [
+      {
+        "id": "wip-proj-1",
+        "title": "Student Management System",
+        "bullet": "Built a student management system with CRUD operations using Java/Python and MySQL"
+      }
+    ],
+    "website": "https://careers.wipro.com"
+  },
+  {
+    "id": "infosys",
+    "name": "Infosys",
+    "tier": 3,
+    "minCGPA": 6,
+    "packageRangeLPA": [
+      3.6,
+      8
+    ],
+    "domain": "IT Services",
+    "skills": [
+      "Programming fundamentals",
+      "Aptitude",
+      "Communication"
+    ],
+    "certifications": [
+      {
+        "id": "inf-cert-1",
+        "name": "Infosys Springboard course completion",
+        "bullet": "Completed relevant certification tracks on Infosys Springboard",
+        "url": "https://www.infosys.com/careers.html"
+      }
+    ],
+    "projects": [
+      {
+        "id": "inf-proj-1",
+        "title": "Personal Finance Tracker",
+        "bullet": "Built a personal finance tracking app with data visualization using Python/Flask"
+      }
+    ],
+    "website": "https://www.infosys.com/careers.html"
+  },
+  {
+    "id": "cognizant",
+    "name": "Cognizant",
+    "tier": 3,
+    "minCGPA": 6,
+    "packageRangeLPA": [
+      4,
+      7
+    ],
+    "domain": "IT Services",
+    "skills": [
+      "Programming fundamentals",
+      "Aptitude",
+      "Communication"
+    ],
+    "certifications": [
+      {
+        "id": "cog-cert-1",
+        "name": "HackerRank Skill Certification (SQL)",
+        "bullet": "HackerRank Certified in SQL — validated database querying skills",
+        "url": "https://www.hackerrank.com/skills-verification"
+      }
+    ],
+    "projects": [
+      {
+        "id": "cog-proj-1",
+        "title": "Library Management System",
+        "bullet": "Developed a library management system with role-based access using Java and MySQL"
+      }
+    ],
+    "website": "https://careers.cognizant.com"
+  },
+  {
+    "id": "tcs",
+    "name": "TCS",
+    "tier": 3,
+    "minCGPA": 6,
+    "packageRangeLPA": [
+      3.36,
+      7
+    ],
+    "domain": "IT Services",
+    "skills": [
+      "Programming fundamentals",
+      "Aptitude",
+      "Communication"
+    ],
+    "certifications": [
+      {
+        "id": "tcs-cert-1",
+        "name": "TCS iON Career Edge - Young Professional",
+        "bullet": "Completed TCS iON Career Edge certification for workplace and employability skills",
+        "url": "https://www.tcs.com/careers"
+      }
+    ],
+    "projects": [
+      {
+        "id": "tcs-proj-1",
+        "title": "Attendance Management System",
+        "bullet": "Built an attendance management system with report generation using Python/Django"
+      }
+    ],
+    "website": "https://www.tcs.com/careers"
+  },
+  {
+    "id": "meta",
+    "name": "Meta",
+    "tier": 1,
+    "minCGPA": 8.5,
+    "packageRangeLPA": [
+      25,
+      55
+    ],
+    "domain": "Product / Social Platforms",
+    "skills": [
+      "Data Structures & Algorithms",
+      "System Design at Scale",
+      "React / Mobile Development"
+    ],
+    "certifications": [
+      {
+        "id": "meta-cert-1",
+        "name": "Meta Front-End Developer Certificate",
+        "bullet": "Meta Front-End Developer Professional Certificate — built responsive, component-driven UIs with React",
+        "url": "https://www.coursera.org/professional-certificates/meta-front-end-developer"
+      }
+    ],
+    "projects": [
+      {
+        "id": "meta-proj-1",
+        "title": "Real-Time Chat Application",
+        "bullet": "Built a real-time chat app with WebSockets supporting groups, presence, and message delivery at scale"
+      },
+      {
+        "id": "meta-proj-2",
+        "title": "Competitive Programming Profile",
+        "bullet": "Solved 300+ DSA problems on LeetCode/Codeforces (rating in top 10%), showcasing strong problem-solving ability"
+      }
+    ],
+    "website": "https://www.metacareers.com"
+  },
+  {
+    "id": "apple",
+    "name": "Apple",
+    "tier": 1,
+    "minCGPA": 8.5,
+    "packageRangeLPA": [
+      20,
+      48
+    ],
+    "domain": "Product / Hardware-Software",
+    "skills": [
+      "Data Structures & Algorithms",
+      "Swift / C++",
+      "Systems Programming"
+    ],
+    "certifications": [
+      {
+        "id": "apple-cert-1",
+        "name": "Apple Foundation Program / Swift Certification",
+        "bullet": "Completed a Swift programming certification, covering iOS app architecture and UIKit/SwiftUI",
+        "url": "https://www.apple.com/careers/in/"
+      }
+    ],
+    "projects": [
+      {
+        "id": "apple-proj-1",
+        "title": "iOS Productivity App",
+        "bullet": "Built and published an iOS app using Swift/SwiftUI with offline-first local storage"
+      }
+    ],
+    "website": "https://www.apple.com/careers/in/"
+  },
+  {
+    "id": "flipkart",
+    "name": "Flipkart",
+    "tier": 1,
+    "minCGPA": 8,
+    "packageRangeLPA": [
+      15,
+      42
+    ],
+    "domain": "E-commerce / Product",
+    "skills": [
+      "Data Structures & Algorithms",
+      "System Design",
+      "Java / Backend Development"
+    ],
+    "certifications": [
+      {
+        "id": "flip-cert-1",
+        "name": "Flipkart GRiD / HackerRank SDE Certification",
+        "bullet": "Certified in problem solving and backend fundamentals via HackerRank SDE track",
+        "url": "https://www.hackerrank.com/skills-verification"
+      }
+    ],
+    "projects": [
+      {
+        "id": "flip-proj-1",
+        "title": "High-Traffic Order Management API",
+        "bullet": "Built a scalable order-management REST API with rate limiting and caching using Java/Spring Boot"
+      }
+    ],
+    "website": "https://www.flipkartcareers.com"
+  },
+  {
+    "id": "goldman-sachs",
+    "name": "Goldman Sachs",
+    "tier": 1,
+    "minCGPA": 8,
+    "packageRangeLPA": [
+      15,
+      32
+    ],
+    "domain": "Fintech / Investment Banking Technology",
+    "skills": [
+      "Data Structures & Algorithms",
+      "Core Java / C++",
+      "Financial Systems Basics"
+    ],
+    "certifications": [
+      {
+        "id": "gs-cert-1",
+        "name": "NSE Academy Financial Markets Certification",
+        "bullet": "Certified in financial markets fundamentals relevant to fintech engineering roles",
+        "url": "https://www.nseindia.com/nse-academy"
+      }
+    ],
+    "projects": [
+      {
+        "id": "gs-proj-1",
+        "title": "Stock Portfolio Risk Analyzer",
+        "bullet": "Built a portfolio risk-analysis tool computing volatility and VaR metrics using Python and Pandas"
+      }
+    ],
+    "website": "https://www.goldmansachs.com/careers/"
+  },
+  {
+    "id": "oracle",
+    "name": "Oracle",
+    "tier": 2,
+    "minCGPA": 7.5,
+    "packageRangeLPA": [
+      10,
+      22
+    ],
+    "domain": "Enterprise Software / Cloud",
+    "skills": [
+      "Data Structures & Algorithms",
+      "SQL / Database Internals",
+      "Java"
+    ],
+    "certifications": [
+      {
+        "id": "oracle-cert-1",
+        "name": "Oracle Certified Associate, Java Programmer",
+        "bullet": "Oracle Certified Associate (OCA) Java Programmer — core Java language and OOP fundamentals",
+        "url": "https://education.oracle.com/certification"
+      }
+    ],
+    "projects": [
+      {
+        "id": "oracle-proj-1",
+        "title": "Database-Backed Inventory System",
+        "bullet": "Designed a normalized relational schema and built a Java/JDBC inventory system with transaction handling"
+      }
+    ],
+    "website": "https://www.oracle.com/in/careers/"
+  },
+  {
+    "id": "sap-labs",
+    "name": "SAP Labs",
+    "tier": 2,
+    "minCGPA": 7.5,
+    "packageRangeLPA": [
+      10,
+      20
+    ],
+    "domain": "Enterprise Software",
+    "skills": [
+      "Data Structures & Algorithms",
+      "ABAP / Java",
+      "Enterprise Systems Basics"
+    ],
+    "certifications": [
+      {
+        "id": "sap-cert-1",
+        "name": "SAP Certified Associate — Development Fundamentals",
+        "bullet": "SAP Certified Associate — foundational knowledge of SAP development and enterprise architecture",
+        "url": "https://learning.sap.com/certification"
+      }
+    ],
+    "projects": [
+      {
+        "id": "sap-proj-1",
+        "title": "Enterprise Resource Dashboard",
+        "bullet": "Built a mock ERP dashboard for inventory and HR modules integrating with a REST backend"
+      }
+    ],
+    "website": "https://www.sap.com/india/about/careers.html"
+  },
+  {
+    "id": "salesforce",
+    "name": "Salesforce",
+    "tier": 2,
+    "minCGPA": 7.5,
+    "packageRangeLPA": [
+      12,
+      26
+    ],
+    "domain": "Cloud / CRM Software",
+    "skills": [
+      "Data Structures & Algorithms",
+      "Apex / JavaScript",
+      "Cloud Fundamentals"
+    ],
+    "certifications": [
+      {
+        "id": "sf-cert-1",
+        "name": "Salesforce Certified Associate",
+        "bullet": "Salesforce Certified Associate — CRM platform fundamentals and Trailhead learning path completion",
+        "url": "https://trailhead.salesforce.com/credentials/administrator"
+      }
+    ],
+    "projects": [
+      {
+        "id": "sf-proj-1",
+        "title": "Custom CRM Workflow App",
+        "bullet": "Built a custom CRM automation workflow on Salesforce using Apex triggers and Lightning components"
+      }
+    ],
+    "website": "https://www.salesforce.com/company/careers/"
+  },
+  {
+    "id": "intel",
+    "name": "Intel",
+    "tier": 2,
+    "minCGPA": 7.5,
+    "packageRangeLPA": [
+      10,
+      22
+    ],
+    "domain": "Semiconductor / Hardware",
+    "skills": [
+      "C / C++",
+      "Computer Architecture",
+      "Digital Logic Design"
+    ],
+    "certifications": [
+      {
+        "id": "intel-cert-1",
+        "name": "Intel Edge AI / VLSI Fundamentals Certification",
+        "bullet": "Completed a certification in embedded systems or VLSI fundamentals relevant to hardware roles",
+        "url": "https://jobs.intel.com"
+      }
+    ],
+    "projects": [
+      {
+        "id": "intel-proj-1",
+        "title": "RISC-V CPU Core Simulation",
+        "bullet": "Designed and simulated a simplified RISC-V pipeline in Verilog, verifying instruction execution"
+      }
+    ],
+    "website": "https://jobs.intel.com"
+  },
+  {
+    "id": "qualcomm",
+    "name": "Qualcomm",
+    "tier": 2,
+    "minCGPA": 7.5,
+    "packageRangeLPA": [
+      10,
+      22
+    ],
+    "domain": "Semiconductor / Telecom",
+    "skills": [
+      "C / Embedded C",
+      "Signal Processing",
+      "Digital Communication Basics"
+    ],
+    "certifications": [
+      {
+        "id": "qc-cert-1",
+        "name": "Embedded Systems / DSP Certification (Coursera/NPTEL)",
+        "bullet": "Completed an embedded systems or digital signal processing certification",
+        "url": "https://nptel.ac.in"
+      }
+    ],
+    "projects": [
+      {
+        "id": "qc-proj-1",
+        "title": "Embedded Signal Processing Module",
+        "bullet": "Built an embedded audio filtering module on a microcontroller using real-time DSP techniques"
+      }
+    ],
+    "website": "https://www.qualcomm.com/company/careers"
+  },
+  {
+    "id": "zoho",
+    "name": "Zoho",
+    "tier": 2,
+    "minCGPA": 7,
+    "packageRangeLPA": [
+      6,
+      16
+    ],
+    "domain": "Product / SaaS",
+    "skills": [
+      "Data Structures & Algorithms",
+      "Java / Backend Development",
+      "Product Thinking"
+    ],
+    "certifications": [
+      {
+        "id": "zoho-cert-1",
+        "name": "Zoho University Coding Assessment Prep",
+        "bullet": "Prepared and cleared a structured coding assessment covering DSA and problem solving",
+        "url": "https://www.zoho.com/careers.html"
+      }
+    ],
+    "projects": [
+      {
+        "id": "zoho-proj-1",
+        "title": "SaaS Multi-Tenant App",
+        "bullet": "Built a multi-tenant SaaS starter app with role-based access using Java/Spring and MySQL"
+      }
+    ],
+    "website": "https://www.zoho.com/careers.html"
+  },
+  {
+    "id": "freshworks",
+    "name": "Freshworks",
+    "tier": 2,
+    "minCGPA": 7,
+    "packageRangeLPA": [
+      8,
+      18
+    ],
+    "domain": "Product / SaaS",
+    "skills": [
+      "Data Structures & Algorithms",
+      "JavaScript / Node.js",
+      "Product Thinking"
+    ],
+    "certifications": [
+      {
+        "id": "fw-cert-1",
+        "name": "Meta Back-End Developer Certificate",
+        "bullet": "Meta Back-End Developer Professional Certificate — REST APIs, databases, and server-side logic",
+        "url": "https://www.coursera.org/professional-certificates/meta-back-end-developer"
+      }
+    ],
+    "projects": [
+      {
+        "id": "fw-proj-1",
+        "title": "Customer Support Ticketing System",
+        "bullet": "Built a ticketing/helpdesk system with SLA tracking using Node.js, Express, and PostgreSQL"
+      }
+    ],
+    "website": "https://www.freshworks.com/company/careers/"
+  },
+  {
+    "id": "capgemini",
+    "name": "Capgemini",
+    "tier": 3,
+    "minCGPA": 6,
+    "packageRangeLPA": [
+      4,
+      9
+    ],
+    "domain": "IT Services",
+    "skills": [
+      "Programming fundamentals",
+      "Aptitude",
+      "Communication"
+    ],
+    "certifications": [
+      {
+        "id": "cap-cert-1",
+        "name": "Capgemini CodeVita Prep / HackerRank Certification",
+        "bullet": "Prepared through structured coding practice aligned with Capgemini's hiring assessments",
+        "url": "https://www.hackerrank.com/skills-verification"
+      }
+    ],
+    "projects": [
+      {
+        "id": "cap-proj-1",
+        "title": "Online Booking System",
+        "bullet": "Built an online appointment/ticket booking system with admin panel using Java and MySQL"
+      }
+    ],
+    "website": "https://www.capgemini.com/careers/"
+  },
+  {
+    "id": "hcltech",
+    "name": "HCLTech",
+    "tier": 3,
+    "minCGPA": 6,
+    "packageRangeLPA": [
+      3.5,
+      8
+    ],
+    "domain": "IT Services",
+    "skills": [
+      "Programming fundamentals",
+      "Aptitude",
+      "Communication"
+    ],
+    "certifications": [
+      {
+        "id": "hcl-cert-1",
+        "name": "HCL TechBee / NPTEL relevant course",
+        "bullet": "Completed a relevant NPTEL or vendor certification aligned with chosen tech stack",
+        "url": "https://nptel.ac.in"
+      }
+    ],
+    "projects": [
+      {
+        "id": "hcl-proj-1",
+        "title": "Employee Payroll System",
+        "bullet": "Built an employee payroll management system with automated salary calculations using Python/Django"
+      }
+    ],
+    "website": "https://www.hcltech.com/careers"
+  },
+  {
+    "id": "tech-mahindra",
+    "name": "Tech Mahindra",
+    "tier": 3,
+    "minCGPA": 6,
+    "packageRangeLPA": [
+      3.5,
+      7.5
+    ],
+    "domain": "IT Services / Telecom",
+    "skills": [
+      "Programming fundamentals",
+      "Aptitude",
+      "Communication"
+    ],
+    "certifications": [
+      {
+        "id": "tm-cert-1",
+        "name": "HackerRank Skill Certification (Problem Solving)",
+        "bullet": "HackerRank Certified in Problem Solving — validated logical and coding ability",
+        "url": "https://www.hackerrank.com/skills-verification"
+      }
+    ],
+    "projects": [
+      {
+        "id": "tm-proj-1",
+        "title": "Telecom Billing Simulator",
+        "bullet": "Built a simplified telecom billing/usage tracking system using Java and MySQL"
+      }
+    ],
+    "website": "https://careers.techmahindra.com"
+  },
+  {
+    "id": "ltimindtree",
+    "name": "LTIMindtree",
+    "tier": 3,
+    "minCGPA": 6,
+    "packageRangeLPA": [
+      3.5,
+      7.5
+    ],
+    "domain": "IT Services",
+    "skills": [
+      "Programming fundamentals",
+      "Aptitude",
+      "Communication"
+    ],
+    "certifications": [
+      {
+        "id": "lti-cert-1",
+        "name": "NPTEL/Coursera course in a chosen tech stack",
+        "bullet": "Completed an NPTEL certification relevant to chosen specialization",
+        "url": "https://nptel.ac.in"
+      }
+    ],
+    "projects": [
+      {
+        "id": "lti-proj-1",
+        "title": "Hospital Management System",
+        "bullet": "Built a hospital management system with appointment scheduling using Python/Flask and MySQL"
+      }
+    ],
+    "website": "https://www.ltimindtree.com/careers/"
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "11e15844-a08e-43c9-95a3-94159eb5636f": {
+    "name": "Sai Gowtham",
+    "cgpa": 7.5,
+    "dreamCompany": "Amazon",
+    "goal": "sde",
+    "branch": "CSE",
+    "currentYear": 2,
+    "createdAt": "2026-07-25T17:22:54.079Z"
+  },
+  "db5dd65e-bd68-494e-b205-c124bf2a34ef": {
+    "name": "Gowtham",
+    "cgpa": 7.5,
+    "dreamCompany": "Amazon",
+    "goal": "sde",
+    "branch": "CSE",
+    "currentYear": 2,
+    "createdAt": "2026-07-25T17:39:51.709Z"
+  },
+  "743877b5-40ea-4d98-89de-75b51eea2950": {
+    "name": "Gowtham",
+    "cgpa": 7.5,
+    "dreamCompany": "Microsoft",
+    "goal": "sde",
+    "branch": "CSE",
+    "currentYear": 2,
+    "createdAt": "2026-07-25T17:40:46.497Z"
+  },
+  "e147622a-95e3-4527-9083-4b7cf5479c6c": {
+    "name": "Gowtham",
+    "cgpa": 8,
+    "dreamCompany": "Adobe",
+    "goal": "sde",
+    "branch": "CSE",
+    "currentYear": 2,
+    "createdAt": "2026-07-25T17:46:57.343Z"
+  },
+  "d40b8877-c782-4795-a42e-eb5ccc08bbc3": {
+    "name": "mukesh",
+    "cgpa": 7,
+    "dreamCompany": null,
+    "goal": "cybersecurity",
+    "branch": "Cybersecurity",
+    "currentYear": 3,
+    "createdAt": "2026-07-25T18:04:23.781Z"
+  },
+  "a2518c13-d491-4c2c-ac9e-d281cbee018f": {
+    "name": "Mukesh",
+    "cgpa": 6.9,
+    "dreamCompany": null,
+    "goal": "cybersecurity",
+    "branch": "Cybersecurity",
+    "currentYear": 3,
+    "createdAt": "2026-08-01T09:45:22.025Z"
+  },
+  "02bb93fc-d689-4cfe-81a0-cc1779f3f1a5": {
+    "name": "mukesh",
+    "cgpa": 6.9,
+    "dreamCompany": null,
+    "goal": "cybersecurity",
+    "branch": "Cybersecurity",
+    "currentYear": 3,
+    "createdAt": "2026-09-23T17:56:38.217Z"
+  }
+}

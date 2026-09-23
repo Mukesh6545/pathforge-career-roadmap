@@ -1,0 +1,1426 @@
+[
+  {
+    "id": "sde",
+    "name": "Software Development Engineer (SDE)",
+    "applicableBranches": [
+      "CSE",
+      "IT",
+      "ECE",
+      "AI & Data Science",
+      "AI & ML"
+    ],
+    "projects": [
+      {
+        "id": "sde-p1",
+        "title": "Full-Stack E-commerce App",
+        "techStack": "React, Node.js, MongoDB",
+        "resumeValue": "High",
+        "url": "https://roadmap.sh/full-stack",
+        "uses": [
+          "Proves end-to-end development ability",
+          "Shows database design and auth/security basics",
+          "Mirrors real product-company work"
+        ],
+        "bullet": "Built a full-stack e-commerce app with user auth, cart, and order management using React, Node.js, and MongoDB"
+      },
+      {
+        "id": "sde-p2",
+        "title": "DSA Problem-Solving Portfolio",
+        "techStack": "GitHub + LeetCode/Codeforces",
+        "resumeValue": "High",
+        "url": "https://leetcode.com",
+        "uses": [
+          "Builds core interview readiness",
+          "Signals consistency and strong logical thinking",
+          "Directly matches SDE screening rounds"
+        ],
+        "bullet": "Solved 200+ Data Structures & Algorithms problems on LeetCode/Codeforces, documented with explanations on GitHub"
+      },
+      {
+        "id": "sde-p3",
+        "title": "Open-Source Contribution",
+        "techStack": "Any public repo on GitHub",
+        "resumeValue": "Medium",
+        "url": "https://github.com/MunGell/awesome-for-beginners",
+        "uses": [
+          "Proves you can read unfamiliar code",
+          "Shows collaboration ability",
+          "Demonstrates real Git/GitHub workflow"
+        ],
+        "bullet": "Contributed a merged pull request to an open-source project on GitHub, fixing a bug / adding a feature"
+      },
+      {
+        "id": "sde-p4",
+        "title": "REST API with Authentication",
+        "techStack": "Node.js, Express, JWT",
+        "resumeValue": "High",
+        "url": "https://roadmap.sh/backend",
+        "uses": [
+          "Shows secure API design",
+          "Common machine-coding interview ask",
+          "Reusable base for other projects"
+        ],
+        "bullet": "Built a secure REST API with JWT-based authentication and role-based access control using Node.js and Express"
+      },
+      {
+        "id": "sde-p5",
+        "title": "Personal Portfolio Website",
+        "techStack": "React, Vercel/Netlify",
+        "resumeValue": "Medium",
+        "url": "https://roadmap.sh/frontend",
+        "uses": [
+          "Gives recruiters a live entry point to your work",
+          "Shows deployment/DevOps basics",
+          "Easy first project to ship"
+        ],
+        "bullet": "Designed and deployed a personal portfolio site showcasing projects, using React and Vercel"
+      },
+      {
+        "id": "sde-p6",
+        "title": "Real-Time Chat Application",
+        "techStack": "Node.js, Socket.io/WebSockets",
+        "resumeValue": "High",
+        "url": "https://roadmap.sh/backend",
+        "uses": [
+          "Tests real-time/event-driven programming",
+          "Common system-design talking point",
+          "Shows scalability thinking"
+        ],
+        "bullet": "Built a real-time chat application supporting rooms and presence using WebSockets and Node.js"
+      },
+      {
+        "id": "sde-p7",
+        "title": "System Design Case Studies Blog",
+        "techStack": "Markdown/GitHub Pages",
+        "resumeValue": "Medium",
+        "url": "https://github.com/donnemartin/system-design-primer",
+        "uses": [
+          "Proves you can reason about scale",
+          "Strong prep for design-round interviews",
+          "Publicly verifiable writing sample"
+        ],
+        "bullet": "Wrote and published system design case studies (e.g. URL shortener, rate limiter) breaking down trade-offs"
+      },
+      {
+        "id": "sde-p8",
+        "title": "Cross-Platform Mobile App",
+        "techStack": "React Native / Flutter",
+        "resumeValue": "Medium",
+        "url": "https://reactnative.dev",
+        "uses": [
+          "Shows mobile development range",
+          "Differentiates from web-only candidates",
+          "Demonstrates local storage/offline handling"
+        ],
+        "bullet": "Built a cross-platform expense tracker mobile app with offline storage using React Native"
+      },
+      {
+        "id": "sde-p9",
+        "title": "Mini Compiler / Interpreter",
+        "techStack": "Python or Java",
+        "resumeValue": "Medium",
+        "url": "https://craftinginterpreters.com",
+        "uses": [
+          "Proves strong CS fundamentals",
+          "Impresses in fundamentals-focused interviews",
+          "Rare among student projects, stands out"
+        ],
+        "bullet": "Built a mini interpreter for a simple language, covering lexing, parsing, and evaluation"
+      },
+      {
+        "id": "sde-p10",
+        "title": "Low-Level Design Practice (Machine Coding)",
+        "techStack": "Java/C++, OOP Design Patterns",
+        "resumeValue": "High",
+        "url": "https://github.com/ashishps1/awesome-low-level-design",
+        "uses": [
+          "Directly matches machine-coding interview rounds",
+          "Shows OOP and design-pattern fluency",
+          "Common at product-based companies"
+        ],
+        "bullet": "Practiced machine-coding rounds by designing systems like a parking lot and Splitwise using OOP principles"
+      }
+    ],
+    "certifications": [
+      {
+        "id": "sde-c1",
+        "name": "Meta Front-End / Back-End Developer Certificate",
+        "url": "https://www.coursera.org/professional-certificates/meta-front-end-developer",
+        "uses": [
+          "Signals structured, verified learning",
+          "Recognized by recruiters globally",
+          "Covers React/Node fundamentals"
+        ],
+        "bullet": "Meta Front-End Developer Professional Certificate — built responsive UIs with React"
+      },
+      {
+        "id": "sde-c2",
+        "name": "Data Structures & Algorithms Certification (GfG)",
+        "url": "https://www.geeksforgeeks.org/data-structures/",
+        "uses": [
+          "Reinforces core CS fundamentals",
+          "Useful if college skips formal DSA",
+          "Backs up your coding practice"
+        ],
+        "bullet": "Completed a Data Structures & Algorithms certification covering arrays, trees, graphs, and dynamic programming"
+      },
+      {
+        "id": "sde-c3",
+        "name": "AWS Certified Cloud Practitioner",
+        "url": "https://aws.amazon.com/certification/certified-cloud-practitioner/",
+        "uses": [
+          "Shows cloud deployment awareness",
+          "Recognized entry-level cloud credential",
+          "Low time cost, high resume value"
+        ],
+        "bullet": "AWS Certified Cloud Practitioner — foundational understanding of AWS cloud services and architecture"
+      },
+      {
+        "id": "sde-c4",
+        "name": "freeCodeCamp Full Stack Certification",
+        "url": "https://www.freecodecamp.org/learn",
+        "uses": [
+          "Free, widely recognized, project-based",
+          "Covers HTML/CSS/JS through backend APIs",
+          "Good if self-teaching from scratch"
+        ],
+        "bullet": "Completed freeCodeCamp's Full Stack Developer curriculum, building and passing project-based certifications"
+      },
+      {
+        "id": "sde-c5",
+        "name": "Oracle Certified Associate, Java Programmer",
+        "url": "https://education.oracle.com/certification",
+        "uses": [
+          "Validates core Java/OOP knowledge",
+          "Recognized in enterprise/product companies",
+          "Backs up Java-based projects"
+        ],
+        "bullet": "Oracle Certified Associate (OCA) Java Programmer — core Java language and OOP fundamentals"
+      },
+      {
+        "id": "sde-c6",
+        "name": "HackerRank Certified Problem Solver",
+        "url": "https://www.hackerrank.com/skills-verification",
+        "uses": [
+          "Quick, verifiable proof of coding skill",
+          "Directly used by many recruiters as a filter",
+          "Shareable certificate link"
+        ],
+        "bullet": "HackerRank Certified in Problem Solving — validated logical and coding ability under timed conditions"
+      },
+      {
+        "id": "sde-c7",
+        "name": "Grokking the System Design Interview (or equivalent)",
+        "url": "https://github.com/donnemartin/system-design-primer",
+        "uses": [
+          "Strong prep for design-round interviews at product companies",
+          "Structures your system-design vocabulary",
+          "Pairs well with your case-studies blog"
+        ],
+        "bullet": "Completed a structured system design interview preparation course covering scalability patterns"
+      },
+      {
+        "id": "sde-c8",
+        "name": "GitHub Foundations Certification",
+        "url": "https://resources.github.com/learn/certifications/",
+        "uses": [
+          "Validates real-world Git/GitHub workflow",
+          "Recognized, low-cost credential",
+          "Relevant to every engineering role"
+        ],
+        "bullet": "GitHub Foundations Certified — version control, branching, and collaboration workflows"
+      },
+      {
+        "id": "sde-c9",
+        "name": "Microsoft Certified: Azure Fundamentals (AZ-900)",
+        "url": "https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/",
+        "uses": [
+          "Useful if targeting Microsoft/Azure-based teams",
+          "Recognized entry-level cloud credential",
+          "Broadens cloud platform coverage beyond AWS"
+        ],
+        "bullet": "Microsoft Certified: Azure Fundamentals (AZ-900) — validated cloud computing concepts and Azure services"
+      },
+      {
+        "id": "sde-c10",
+        "name": "MongoDB Certified Associate Developer",
+        "url": "https://learn.mongodb.com/certification",
+        "uses": [
+          "Backs up NoSQL/database design claims",
+          "Relevant to full-stack (MERN) projects",
+          "Recognized by product companies using MongoDB"
+        ],
+        "bullet": "MongoDB Certified Associate Developer — schema design, aggregation, and performance basics"
+      }
+    ],
+    "resumeTips": [
+      "Quantify impact wherever possible (e.g. \"reduced load time by 40%\", not just \"optimized code\")",
+      "List the exact tech stack per project — recruiters and ATS filters scan for keywords",
+      "Always link a live demo + GitHub repo next to each project",
+      "Keep the resume to one page until you have 2+ years of experience"
+    ],
+    "interviewQuestions": [
+      {
+        "id": "sde-q1",
+        "question": "Tell me about a project you're proud of.",
+        "tip": "Use STAR (Situation, Task, Action, Result). Mention specific tech decisions and trade-offs you made."
+      },
+      {
+        "id": "sde-q2",
+        "question": "What's the difference between an array and a linked list?",
+        "tip": "Cover time complexity for access, insertion, and deletion, and when you'd choose one over the other."
+      },
+      {
+        "id": "sde-q3",
+        "question": "How would you design a URL shortener?",
+        "tip": "Talk through hashing/encoding the short code, database schema, and how you'd handle scale (caching, load balancing)."
+      },
+      {
+        "id": "sde-q4",
+        "question": "Why do you want to join this company?",
+        "tip": "Reference something specific about their product or engineering culture, and connect it to your own skills/interests."
+      }
+    ]
+  },
+  {
+    "id": "data-science",
+    "name": "Data Scientist / ML Engineer",
+    "applicableBranches": [
+      "CSE",
+      "IT",
+      "ECE",
+      "EEE",
+      "AI & Data Science",
+      "AI & ML",
+      "Instrumentation",
+      "Other"
+    ],
+    "projects": [
+      {
+        "id": "ds-p1",
+        "title": "End-to-End ML Pipeline",
+        "techStack": "Python, scikit-learn/PyTorch, FastAPI",
+        "resumeValue": "High",
+        "url": "https://scikit-learn.org/stable/tutorial/index.html",
+        "uses": [
+          "Shows the full ML lifecycle, not just a notebook",
+          "Demonstrates deployment ability",
+          "Proves you can ship, not just train"
+        ],
+        "bullet": "Built and deployed an end-to-end ML pipeline (data cleaning → training → REST API) using scikit-learn and FastAPI"
+      },
+      {
+        "id": "ds-p2",
+        "title": "Kaggle Competition Submission",
+        "techStack": "Python, Pandas, XGBoost",
+        "resumeValue": "Medium",
+        "url": "https://www.kaggle.com/competitions",
+        "uses": [
+          "Gives an external, verifiable benchmark",
+          "Shows applied modeling and feature engineering skill",
+          "Adds credibility via public ranking"
+        ],
+        "bullet": "Placed in the top percentile of a Kaggle competition using feature engineering and gradient boosting"
+      },
+      {
+        "id": "ds-p3",
+        "title": "Data Visualization Dashboard",
+        "techStack": "Power BI / Plotly Dash",
+        "resumeValue": "Medium",
+        "url": "https://plotly.com/dash/",
+        "uses": [
+          "Shows you can communicate insights",
+          "Common interview probe area",
+          "Useful for non-technical stakeholders"
+        ],
+        "bullet": "Built an interactive dashboard visualizing key business metrics using Power BI / Plotly Dash"
+      },
+      {
+        "id": "ds-p4",
+        "title": "NLP Text Classifier",
+        "techStack": "Python, HuggingFace Transformers",
+        "resumeValue": "High",
+        "url": "https://huggingface.co/course",
+        "uses": [
+          "Shows modern NLP tooling fluency",
+          "In high demand across product companies",
+          "Good talking point on transfer learning"
+        ],
+        "bullet": "Built a text classification model by fine-tuning a HuggingFace Transformer on a labeled dataset"
+      },
+      {
+        "id": "ds-p5",
+        "title": "Computer Vision Image Classifier",
+        "techStack": "Python, PyTorch/TensorFlow, CNNs",
+        "resumeValue": "High",
+        "url": "https://www.kaggle.com/learn/computer-vision",
+        "uses": [
+          "Demonstrates deep learning fundamentals",
+          "Visual results are easy to demo in interviews",
+          "Common ML engineer screening topic"
+        ],
+        "bullet": "Trained a CNN-based image classifier achieving strong accuracy on a public image dataset"
+      },
+      {
+        "id": "ds-p6",
+        "title": "Time Series Forecasting Project",
+        "techStack": "Python, Prophet/ARIMA",
+        "resumeValue": "Medium",
+        "url": "https://www.kaggle.com/learn/time-series",
+        "uses": [
+          "Applies directly to demand/sales forecasting roles",
+          "Tests statistical reasoning",
+          "Differentiates from generic classification projects"
+        ],
+        "bullet": "Built a time series forecasting model for sales/stock data using Prophet and ARIMA, evaluated on RMSE"
+      },
+      {
+        "id": "ds-p7",
+        "title": "Recommendation System",
+        "techStack": "Python, collaborative filtering / matrix factorization",
+        "resumeValue": "Medium",
+        "url": "https://developers.google.com/machine-learning/recommendation",
+        "uses": [
+          "Directly relevant to e-commerce/media companies",
+          "Shows applied linear algebra skill",
+          "Strong conversation piece in interviews"
+        ],
+        "bullet": "Built a movie/product recommendation system using collaborative filtering and matrix factorization"
+      },
+      {
+        "id": "ds-p8",
+        "title": "A/B Testing Case Study",
+        "techStack": "Python, statistics, hypothesis testing",
+        "resumeValue": "Medium",
+        "url": "https://www.udacity.com/course/ab-testing--ud257",
+        "uses": [
+          "Shows experimentation and statistical rigor",
+          "Highly valued at product-driven companies",
+          "Bridges data science with business decisions"
+        ],
+        "bullet": "Ran an A/B test case study on sample product data, computing significance and effect size"
+      },
+      {
+        "id": "ds-p9",
+        "title": "SQL Data Analysis Portfolio",
+        "techStack": "SQL, public datasets",
+        "resumeValue": "Medium",
+        "url": "https://www.hackerrank.com/domains/sql",
+        "uses": [
+          "SQL is tested in nearly every DS/analyst interview",
+          "Shows you can work with real, messy data",
+          "Easy to verify via public queries"
+        ],
+        "bullet": "Solved 50+ SQL analysis problems on public datasets, documented with query explanations"
+      },
+      {
+        "id": "ds-p10",
+        "title": "MLOps Pipeline with Model Monitoring",
+        "techStack": "MLflow, Docker",
+        "resumeValue": "High",
+        "url": "https://mlflow.org",
+        "uses": [
+          "Shows production ML awareness, not just training",
+          "Increasingly expected for ML engineer roles",
+          "Strong differentiator among student applicants"
+        ],
+        "bullet": "Set up an MLOps pipeline with experiment tracking and model monitoring using MLflow and Docker"
+      }
+    ],
+    "certifications": [
+      {
+        "id": "ds-c1",
+        "name": "IBM Data Science Professional Certificate",
+        "url": "https://www.coursera.org/professional-certificates/ibm-data-science",
+        "uses": [
+          "Covers the full DS workflow",
+          "Widely recognized certificate",
+          "Strengthens Python/SQL/ML basics"
+        ],
+        "bullet": "IBM Data Science Professional Certificate — Python, SQL, data visualization, and machine learning"
+      },
+      {
+        "id": "ds-c2",
+        "name": "Google Data Analytics Professional Certificate",
+        "url": "https://www.coursera.org/professional-certificates/google-data-analytics",
+        "uses": [
+          "Strengthens data analysis fundamentals",
+          "Recognized entry-level credential",
+          "Covers SQL, spreadsheets, visualization"
+        ],
+        "bullet": "Google Data Analytics Professional Certificate — data cleaning, analysis, and visualization with SQL and Tableau"
+      },
+      {
+        "id": "ds-c3",
+        "name": "TensorFlow Developer Certificate",
+        "url": "https://www.tensorflow.org/certificate",
+        "uses": [
+          "Validates deep learning skill",
+          "Recognized by ML-focused recruiters",
+          "Shows framework-specific expertise"
+        ],
+        "bullet": "TensorFlow Developer Certificate — built and trained neural networks for computer vision and NLP tasks"
+      },
+      {
+        "id": "ds-c4",
+        "name": "Deep Learning Specialization (DeepLearning.AI)",
+        "url": "https://www.coursera.org/specializations/deep-learning",
+        "uses": [
+          "Gold-standard intro to neural networks",
+          "Recognized across the ML industry",
+          "Strong foundation for CV/NLP projects"
+        ],
+        "bullet": "Completed the Deep Learning Specialization — neural networks, CNNs, sequence models, and optimization"
+      },
+      {
+        "id": "ds-c5",
+        "name": "Microsoft Certified: Azure Data Scientist Associate",
+        "url": "https://learn.microsoft.com/en-us/credentials/certifications/azure-data-scientist/",
+        "uses": [
+          "Validates applied ML on a cloud platform",
+          "Useful for MLOps-adjacent roles",
+          "Recognized enterprise credential"
+        ],
+        "bullet": "Microsoft Certified: Azure Data Scientist Associate — training and deploying ML models on Azure"
+      },
+      {
+        "id": "ds-c6",
+        "name": "SQL for Data Science Certification",
+        "url": "https://www.coursera.org/learn/sql-for-data-science",
+        "uses": [
+          "SQL is a baseline requirement, not a bonus",
+          "Quick to earn, high resume impact",
+          "Backs up your SQL portfolio project"
+        ],
+        "bullet": "Completed a SQL for Data Science certification covering joins, aggregation, and window functions"
+      },
+      {
+        "id": "ds-c7",
+        "name": "HuggingFace NLP Course Certificate",
+        "url": "https://huggingface.co/learn/nlp-course",
+        "uses": [
+          "Covers modern transformer-based NLP",
+          "Free and highly respected in the ML community",
+          "Directly backs your NLP project"
+        ],
+        "bullet": "Completed the HuggingFace NLP Course — tokenization, fine-tuning, and deploying transformer models"
+      },
+      {
+        "id": "ds-c8",
+        "name": "Kaggle Micro-Course Certificates",
+        "url": "https://www.kaggle.com/learn",
+        "uses": [
+          "Short, practical, and free",
+          "Recognized within the data science community",
+          "Good for filling specific skill gaps fast"
+        ],
+        "bullet": "Completed Kaggle micro-courses in Python, Pandas, and Machine Learning fundamentals"
+      },
+      {
+        "id": "ds-c9",
+        "name": "Google Cloud Professional Machine Learning Engineer",
+        "url": "https://cloud.google.com/certification/machine-learning-engineer",
+        "uses": [
+          "Advanced, well-respected industry certification",
+          "Validates production ML on GCP",
+          "Strong differentiator for ML engineer roles"
+        ],
+        "bullet": "Pursuing Google Cloud Professional Machine Learning Engineer certification — production ML systems on GCP"
+      },
+      {
+        "id": "ds-c10",
+        "name": "NPTEL Certification in Statistics/Probability",
+        "url": "https://nptel.ac.in",
+        "uses": [
+          "Strengthens the statistical foundation under all ML work",
+          "Low-cost, credible, India-recognized",
+          "Fills gaps from limited coursework"
+        ],
+        "bullet": "Completed an NPTEL certification in Statistics/Probability foundations for machine learning"
+      }
+    ],
+    "resumeTips": [
+      "State metrics, not just methods (e.g. \"achieved 92% F1-score\", not just \"trained a classifier\")",
+      "Mention dataset size/source to show you've handled real-world messy data",
+      "Include both a modeling project and one visualization/communication project",
+      "Link a GitHub repo with a clear README explaining your approach"
+    ],
+    "interviewQuestions": [
+      {
+        "id": "ds-q1",
+        "question": "Explain overfitting and how to prevent it.",
+        "tip": "Mention regularization, cross-validation, simpler models, and more/better data."
+      },
+      {
+        "id": "ds-q2",
+        "question": "Walk me through one of your projects end-to-end.",
+        "tip": "Use STAR, and explicitly cover data cleaning, feature engineering, model choice, and your evaluation metric."
+      },
+      {
+        "id": "ds-q3",
+        "question": "In SQL, how would you find duplicate records in a table?",
+        "tip": "GROUP BY the relevant columns and use HAVING COUNT(*) > 1."
+      },
+      {
+        "id": "ds-q4",
+        "question": "Why do you want to work in data science/ML at this company?",
+        "tip": "Connect their actual products/data problems to the kind of work you've done in your projects."
+      }
+    ]
+  },
+  {
+    "id": "cybersecurity",
+    "name": "Cybersecurity Analyst",
+    "applicableBranches": [
+      "CSE",
+      "IT",
+      "ECE",
+      "EEE",
+      "Cybersecurity",
+      "AI & Data Science"
+    ],
+    "projects": [
+      {
+        "id": "cy-p1",
+        "title": "Home SOC Lab",
+        "techStack": "Splunk/ELK, VirtualBox",
+        "resumeValue": "High",
+        "url": "https://tryhackme.com",
+        "uses": [
+          "Gives hands-on log analysis proof",
+          "Matches real analyst workflow",
+          "Strong technical interview topic"
+        ],
+        "bullet": "Built a home Security Operations Center lab using Splunk/ELK for log analysis and threat detection"
+      },
+      {
+        "id": "cy-p2",
+        "title": "Vulnerability Scanner",
+        "techStack": "Python, sockets/nmap library",
+        "resumeValue": "High",
+        "url": "https://nmap.org",
+        "uses": [
+          "Shows applied networking knowledge",
+          "Demonstrates scripting ability",
+          "Makes a strong GitHub portfolio piece"
+        ],
+        "bullet": "Developed a Python-based network vulnerability scanner identifying open ports and known CVEs"
+      },
+      {
+        "id": "cy-p3",
+        "title": "CTF Writeups Portfolio",
+        "techStack": "TryHackMe / HackTheBox + a blog/GitHub",
+        "resumeValue": "Medium",
+        "url": "https://ctftime.org",
+        "uses": [
+          "Proves consistent practice",
+          "Publicly verifiable proof of work",
+          "Covers multiple security domains"
+        ],
+        "bullet": "Documented 15+ Capture The Flag writeups covering web, network, and crypto challenges"
+      },
+      {
+        "id": "cy-p4",
+        "title": "TryHackMe Learning Path",
+        "techStack": "TryHackMe rooms (Pre Security → Cyber Security 101)",
+        "resumeValue": "High",
+        "url": "https://tryhackme.com",
+        "uses": [
+          "Structured, guided hands-on practice",
+          "Directly recognized by security recruiters",
+          "Great for building fundamentals from scratch"
+        ],
+        "bullet": "Completed TryHackMe's Cyber Security 101 learning path, covering networking, Linux, and web security basics"
+      },
+      {
+        "id": "cy-p5",
+        "title": "HackTheBox Machine Writeups",
+        "techStack": "HackTheBox retired machines",
+        "resumeValue": "High",
+        "url": "https://www.hackthebox.com",
+        "uses": [
+          "Tests real offensive-security skill on realistic targets",
+          "Highly respected within the security community",
+          "Directly matches pentesting interview questions"
+        ],
+        "bullet": "Rooted 10+ HackTheBox machines across easy/medium difficulty, documenting exploitation steps"
+      },
+      {
+        "id": "cy-p6",
+        "title": "Password Cracking Lab",
+        "techStack": "Hashcat / John the Ripper",
+        "resumeValue": "Medium",
+        "url": "https://www.hackthebox.com",
+        "uses": [
+          "Shows understanding of hashing/cracking techniques",
+          "Common topic in security interviews",
+          "Pairs well with CTF writeups"
+        ],
+        "bullet": "Practiced password cracking techniques using Hashcat and John the Ripper on sample hash sets"
+      },
+      {
+        "id": "cy-p7",
+        "title": "Web App Penetration Test Report",
+        "techStack": "OWASP Juice Shop / DVWA",
+        "resumeValue": "High",
+        "url": "https://owasp.org/www-project-juice-shop/",
+        "uses": [
+          "Directly maps to web pentesting job tasks",
+          "Shows structured reporting ability",
+          "Demonstrates OWASP Top 10 knowledge in practice"
+        ],
+        "bullet": "Performed a penetration test against OWASP Juice Shop, documenting vulnerabilities in a formal report"
+      },
+      {
+        "id": "cy-p8",
+        "title": "Network Traffic Analysis",
+        "techStack": "Wireshark",
+        "resumeValue": "Medium",
+        "url": "https://www.wireshark.org",
+        "uses": [
+          "Core analyst-day-to-day skill",
+          "Common practical interview task",
+          "Builds packet-level protocol understanding"
+        ],
+        "bullet": "Analyzed captured network traffic in Wireshark to identify a simulated intrusion attempt"
+      },
+      {
+        "id": "cy-p9",
+        "title": "Secure Coding Audit",
+        "techStack": "OWASP Top 10 checklist",
+        "resumeValue": "Medium",
+        "url": "https://owasp.org/www-project-top-ten/",
+        "uses": [
+          "Shows you can think like both developer and attacker",
+          "Useful for AppSec-adjacent roles",
+          "Concrete before/after fix comparison"
+        ],
+        "bullet": "Audited a sample web app against the OWASP Top 10 and fixed the vulnerabilities found"
+      },
+      {
+        "id": "cy-p10",
+        "title": "Digital Forensics Case Study",
+        "techStack": "Autopsy / FTK Imager",
+        "resumeValue": "Medium",
+        "url": "https://www.sleuthkit.org/autopsy/",
+        "uses": [
+          "Covers the forensics/incident-response side of security",
+          "Differentiates from pure offensive-security portfolios",
+          "Shows evidence-handling discipline"
+        ],
+        "bullet": "Investigated a sample disk image using Autopsy to reconstruct a simulated incident timeline"
+      }
+    ],
+    "certifications": [
+      {
+        "id": "cy-c1",
+        "name": "CompTIA Security+",
+        "url": "https://www.comptia.org/certifications/security",
+        "uses": [
+          "Most common baseline requirement",
+          "Often used as a screening filter",
+          "Covers core security principles"
+        ],
+        "bullet": "CompTIA Security+ Certified — core cybersecurity principles including threats, risk management, and cryptography"
+      },
+      {
+        "id": "cy-c2",
+        "name": "Certified Ethical Hacker (CEH)",
+        "url": "https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh/",
+        "uses": [
+          "Shows offensive security knowledge",
+          "Widely recognized in the industry",
+          "Complements your SOC lab project"
+        ],
+        "bullet": "Certified Ethical Hacker (CEH) — penetration testing methodology, tools, and attacker mindset"
+      },
+      {
+        "id": "cy-c3",
+        "name": "Google Cybersecurity Professional Certificate",
+        "url": "https://www.coursera.org/professional-certificates/google-cybersecurity",
+        "uses": [
+          "Covers foundational security skills",
+          "Recognized entry-level credential",
+          "Reinforces SOC/analyst basics"
+        ],
+        "bullet": "Google Cybersecurity Professional Certificate — network security, SIEM tools, and incident response basics"
+      },
+      {
+        "id": "cy-c4",
+        "name": "TryHackMe Certificates (Path Completion)",
+        "url": "https://tryhackme.com",
+        "uses": [
+          "Hands-on, practical proof of skill",
+          "Free/low-cost entry point",
+          "Recognized as a strong learning signal by security recruiters"
+        ],
+        "bullet": "Earned TryHackMe path-completion certificates for Pre Security and Cyber Security 101"
+      },
+      {
+        "id": "cy-c5",
+        "name": "HackTheBox Academy — CBBH Path",
+        "url": "https://www.hackthebox.com",
+        "uses": [
+          "Certified Bug Bounty Hunter path is highly respected",
+          "Directly tests real-world web attack skills",
+          "Strong signal for pentesting-track roles"
+        ],
+        "bullet": "Progressing through HackTheBox Academy's Certified Bug Bounty Hunter (CBBH) learning path"
+      },
+      {
+        "id": "cy-c6",
+        "name": "Cisco CCNA",
+        "url": "https://www.cisco.com/site/us/en/learn/training-certifications/certifications/associate/ccna/index.html",
+        "uses": [
+          "Strong networking foundation underlies all security work",
+          "Widely recognized, respected credential",
+          "Useful for network-security-focused roles"
+        ],
+        "bullet": "Cisco Certified Network Associate (CCNA) — networking fundamentals, routing and switching"
+      },
+      {
+        "id": "cy-c7",
+        "name": "ISC2 Certified in Cybersecurity (CC)",
+        "url": "https://www.isc2.org/certifications/cc",
+        "uses": [
+          "Free/low-cost, beginner-friendly entry certification",
+          "From a globally respected certifying body",
+          "Good first formal credential before CEH/Security+"
+        ],
+        "bullet": "ISC2 Certified in Cybersecurity (CC) — security principles, incident response, and access control basics"
+      },
+      {
+        "id": "cy-c8",
+        "name": "Splunk Core Certified User",
+        "url": "https://www.splunk.com/en_us/training/certification-track/splunk-core-certified-user.html",
+        "uses": [
+          "Directly backs your SOC lab / SIEM experience",
+          "Splunk is widely used in real SOC environments",
+          "Quick, practical, resume-ready"
+        ],
+        "bullet": "Splunk Core Certified User — searching, reporting, and dashboard basics in Splunk"
+      },
+      {
+        "id": "cy-c9",
+        "name": "OSCP (Offensive Security Certified Professional)",
+        "url": "https://www.offsec.com/courses/pen-200/",
+        "uses": [
+          "Considered a gold-standard pentesting certification",
+          "Best positioned as a longer-term goal, not a first cert",
+          "Extremely respected by offensive-security teams"
+        ],
+        "bullet": "Working toward OSCP — hands-on penetration testing methodology and exploit development"
+      },
+      {
+        "id": "cy-c10",
+        "name": "eJPT (Junior Penetration Tester)",
+        "url": "https://security.ine.com/certifications/ejpt-certification/",
+        "uses": [
+          "Beginner-friendly, fully practical exam",
+          "Good stepping stone toward OSCP",
+          "Validates real exploitation skills, not just theory"
+        ],
+        "bullet": "eJPT Certified — practical penetration testing skills across network and web targets"
+      }
+    ],
+    "resumeTips": [
+      "List specific tools you've used (Wireshark, Splunk, Nmap, Metasploit) — recruiters keyword-match on these",
+      "If you've done CTFs or TryHackMe/HackTheBox, mention your rank, rooms/machines completed, or percentile",
+      "Frame projects around detection/response, not just \"I learned about security\"",
+      "Include any responsible disclosure or bug bounty activity, even minor ones"
+    ],
+    "interviewQuestions": [
+      {
+        "id": "cy-q1",
+        "question": "What is the CIA triad?",
+        "tip": "Confidentiality, Integrity, Availability — give a concrete example of each."
+      },
+      {
+        "id": "cy-q2",
+        "question": "Walk me through how you'd respond to a phishing incident.",
+        "tip": "Cover the incident response lifecycle: identify, contain, eradicate, recover, and lessons learned."
+      },
+      {
+        "id": "cy-q3",
+        "question": "Tell me about your SOC lab, scanner, or a HackTheBox/TryHackMe box you completed.",
+        "tip": "Use STAR — explain the setup, what you were detecting/exploiting, and what you learned."
+      },
+      {
+        "id": "cy-q4",
+        "question": "Why security, specifically?",
+        "tip": "Give a genuine reason tied to something concrete you've done (a CTF, an incident you read about, a lab you built)."
+      }
+    ]
+  },
+  {
+    "id": "cloud-devops",
+    "name": "Cloud / DevOps Engineer",
+    "applicableBranches": [
+      "CSE",
+      "IT",
+      "ECE",
+      "EEE",
+      "AI & Data Science"
+    ],
+    "projects": [
+      {
+        "id": "cd-p1",
+        "title": "CI/CD Pipeline Setup",
+        "techStack": "GitHub Actions/Jenkins, AWS/Azure",
+        "resumeValue": "High",
+        "url": "https://roadmap.sh/devops",
+        "uses": [
+          "Direct proof of automation skill",
+          "Matches core DevOps daily work",
+          "Easy to demo live in interviews"
+        ],
+        "bullet": "Set up a CI/CD pipeline with GitHub Actions to automatically test and deploy an app to AWS"
+      },
+      {
+        "id": "cd-p2",
+        "title": "Containerized Microservices App",
+        "techStack": "Docker, Kubernetes",
+        "resumeValue": "High",
+        "url": "https://kubernetes.io",
+        "uses": [
+          "Tests container orchestration skill",
+          "Common technical interview topic",
+          "Matches real production setups"
+        ],
+        "bullet": "Containerized a multi-service app with Docker and orchestrated deployment using Kubernetes"
+      },
+      {
+        "id": "cd-p3",
+        "title": "Infrastructure as Code",
+        "techStack": "Terraform",
+        "resumeValue": "Medium",
+        "url": "https://developer.hashicorp.com/terraform",
+        "uses": [
+          "Shows reproducible-infra thinking",
+          "Matches modern DevOps practice",
+          "Highly valued by hiring teams"
+        ],
+        "bullet": "Provisioned cloud infrastructure (VPC, EC2, S3) using Terraform, version-controlled in Git"
+      },
+      {
+        "id": "cd-p4",
+        "title": "Monitoring & Alerting Stack",
+        "techStack": "Prometheus, Grafana",
+        "resumeValue": "High",
+        "url": "https://prometheus.io",
+        "uses": [
+          "Observability is a core, often-overlooked DevOps skill",
+          "Great visual demo in interviews",
+          "Shows production-mindset thinking"
+        ],
+        "bullet": "Set up a monitoring and alerting stack with Prometheus and Grafana for a containerized app"
+      },
+      {
+        "id": "cd-p5",
+        "title": "Serverless Application",
+        "techStack": "AWS Lambda, API Gateway",
+        "resumeValue": "Medium",
+        "url": "https://aws.amazon.com/lambda/",
+        "uses": [
+          "Shows modern serverless architecture knowledge",
+          "Cost-efficient, easy to demo",
+          "Common in cloud-focused interviews"
+        ],
+        "bullet": "Built a serverless backend using AWS Lambda and API Gateway with DynamoDB storage"
+      },
+      {
+        "id": "cd-p6",
+        "title": "Multi-Cloud Deployment Comparison",
+        "techStack": "AWS, GCP, Azure",
+        "resumeValue": "Medium",
+        "url": "https://roadmap.sh/devops",
+        "uses": [
+          "Shows platform versatility beyond one vendor",
+          "Good talking point on trade-offs",
+          "Differentiates from single-cloud candidates"
+        ],
+        "bullet": "Deployed the same application across AWS, GCP, and Azure, comparing cost and setup trade-offs"
+      },
+      {
+        "id": "cd-p7",
+        "title": "Log Aggregation Pipeline",
+        "techStack": "ELK / EFK stack",
+        "resumeValue": "Medium",
+        "url": "https://www.elastic.co/elastic-stack",
+        "uses": [
+          "Matches real production troubleshooting workflows",
+          "Pairs well with monitoring project",
+          "Shows full observability picture"
+        ],
+        "bullet": "Built a centralized log aggregation pipeline using the ELK stack for a multi-service app"
+      },
+      {
+        "id": "cd-p8",
+        "title": "GitOps Deployment",
+        "techStack": "ArgoCD on Kubernetes",
+        "resumeValue": "Medium",
+        "url": "https://argo-cd.readthedocs.io",
+        "uses": [
+          "Shows familiarity with modern GitOps workflows",
+          "Increasingly expected at DevOps-mature companies",
+          "Strong differentiator among peers"
+        ],
+        "bullet": "Set up a GitOps deployment workflow using ArgoCD to sync a Kubernetes cluster from a Git repo"
+      },
+      {
+        "id": "cd-p9",
+        "title": "Load Testing & Auto-Scaling Demo",
+        "techStack": "k6, Kubernetes HPA",
+        "resumeValue": "Medium",
+        "url": "https://k6.io",
+        "uses": [
+          "Proves you can validate scalability, not just claim it",
+          "Great live-demo interview material",
+          "Tests understanding of auto-scaling triggers"
+        ],
+        "bullet": "Load-tested an app with k6 and configured Kubernetes Horizontal Pod Autoscaler to handle traffic spikes"
+      },
+      {
+        "id": "cd-p10",
+        "title": "Configuration Management with Ansible",
+        "techStack": "Ansible playbooks",
+        "resumeValue": "Medium",
+        "url": "https://www.ansible.com",
+        "uses": [
+          "Shows automated, repeatable server provisioning",
+          "Complements Terraform (infra) with config management",
+          "Common enterprise DevOps tool"
+        ],
+        "bullet": "Wrote Ansible playbooks to automate server provisioning and configuration across multiple environments"
+      }
+    ],
+    "certifications": [
+      {
+        "id": "cd-c1",
+        "name": "AWS Certified Cloud Practitioner",
+        "url": "https://aws.amazon.com/certification/certified-cloud-practitioner/",
+        "uses": [
+          "Standard entry-level cloud proof",
+          "Recognized by most recruiters",
+          "Pairs well with CI/CD projects"
+        ],
+        "bullet": "AWS Certified Cloud Practitioner — foundational understanding of AWS cloud services and architecture"
+      },
+      {
+        "id": "cd-c2",
+        "name": "Microsoft Certified: Azure Fundamentals (AZ-900)",
+        "url": "https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/",
+        "uses": [
+          "Useful if targeting Azure-based teams",
+          "Recognized entry-level credential",
+          "Complements AWS knowledge"
+        ],
+        "bullet": "Microsoft Certified: Azure Fundamentals (AZ-900) — validated cloud computing concepts and Azure services"
+      },
+      {
+        "id": "cd-c3",
+        "name": "Certified Kubernetes Application Developer (CKAD)",
+        "url": "https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/",
+        "uses": [
+          "Validates container orchestration skill",
+          "Recognized, respected certification",
+          "Matches Kubernetes project experience"
+        ],
+        "bullet": "Certified Kubernetes Application Developer (CKAD) — designed and deployed applications on Kubernetes"
+      },
+      {
+        "id": "cd-c4",
+        "name": "Certified Kubernetes Administrator (CKA)",
+        "url": "https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/",
+        "uses": [
+          "Goes deeper into cluster administration than CKAD",
+          "Highly respected in the DevOps community",
+          "Strong differentiator for infra-focused roles"
+        ],
+        "bullet": "Working toward Certified Kubernetes Administrator (CKA) — cluster setup, security, and troubleshooting"
+      },
+      {
+        "id": "cd-c5",
+        "name": "HashiCorp Certified: Terraform Associate",
+        "url": "https://www.hashicorp.com/certification/terraform-associate",
+        "uses": [
+          "Directly backs your Terraform IaC project",
+          "Recognized, vendor-specific credential",
+          "Growing in demand across cloud teams"
+        ],
+        "bullet": "HashiCorp Certified: Terraform Associate — infrastructure as code fundamentals and best practices"
+      },
+      {
+        "id": "cd-c6",
+        "name": "Google Cloud Associate Cloud Engineer",
+        "url": "https://cloud.google.com/certification/cloud-engineer",
+        "uses": [
+          "Broadens cloud coverage to GCP",
+          "Recognized industry-wide",
+          "Useful if targeting GCP-based teams"
+        ],
+        "bullet": "Google Cloud Associate Cloud Engineer — deploying and managing applications on Google Cloud Platform"
+      },
+      {
+        "id": "cd-c7",
+        "name": "Kubernetes and Cloud Native Associate (KCNA)",
+        "url": "https://training.linuxfoundation.org/certification/kubernetes-cloud-native-associate/",
+        "uses": [
+          "Good entry point before CKAD/CKA",
+          "Covers the broader cloud-native ecosystem",
+          "Recognized Linux Foundation credential"
+        ],
+        "bullet": "Kubernetes and Cloud Native Associate (KCNA) — core Kubernetes and cloud-native concepts"
+      },
+      {
+        "id": "cd-c8",
+        "name": "Linux Foundation Certified System Administrator (LFCS)",
+        "url": "https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/",
+        "uses": [
+          "Strong Linux fundamentals underlie all DevOps work",
+          "Recognized, vendor-neutral credential",
+          "Complements cloud-specific certifications"
+        ],
+        "bullet": "Linux Foundation Certified System Administrator (LFCS) — Linux system administration fundamentals"
+      },
+      {
+        "id": "cd-c9",
+        "name": "GitHub Foundations Certification",
+        "url": "https://resources.github.com/learn/certifications/",
+        "uses": [
+          "Validates real-world Git/GitHub/Actions workflow",
+          "Directly relevant to your CI/CD project",
+          "Low-cost, recognized credential"
+        ],
+        "bullet": "GitHub Foundations Certified — version control, collaboration, and CI/CD workflows on GitHub"
+      },
+      {
+        "id": "cd-c10",
+        "name": "Site Reliability Engineering Fundamentals",
+        "url": "https://sre.google/books/",
+        "uses": [
+          "Introduces SRE principles used at top tech companies",
+          "Free, well-respected reference material (Google's SRE book)",
+          "Good conversation topic on reliability/on-call practices"
+        ],
+        "bullet": "Studied Site Reliability Engineering fundamentals — SLIs/SLOs, error budgets, and incident management"
+      }
+    ],
+    "resumeTips": [
+      "Name the exact cloud provider and services used (EC2, S3, Lambda, etc.) rather than saying \"cloud\" generically",
+      "Mention any automation that removed a manual step — that's the core DevOps value proposition",
+      "Include uptime/deployment-frequency style metrics if you have them, even from a personal project",
+      "Link to your GitHub Actions/Terraform config files, not just a description"
+    ],
+    "interviewQuestions": [
+      {
+        "id": "cd-q1",
+        "question": "What's the difference between a Docker container and a virtual machine?",
+        "tip": "Containers share the host OS kernel and are lighter/faster to start; VMs virtualize full hardware including their own OS."
+      },
+      {
+        "id": "cd-q2",
+        "question": "Explain CI/CD in your own words.",
+        "tip": "Continuous Integration = automatically testing/merging code frequently; Continuous Deployment = automatically shipping it to production."
+      },
+      {
+        "id": "cd-q3",
+        "question": "Walk me through your pipeline or Kubernetes project.",
+        "tip": "Use STAR — describe the trigger, the stages, and a problem you hit and fixed."
+      },
+      {
+        "id": "cd-q4",
+        "question": "Why cloud/DevOps as a career path?",
+        "tip": "Tie it to something concrete you enjoyed building/automating, not just \"it's in demand\"."
+      }
+    ]
+  },
+  {
+    "id": "core-engineering",
+    "name": "Core Engineering (Non-CS roles)",
+    "applicableBranches": [
+      "Mechanical",
+      "Civil",
+      "EEE",
+      "Chemical",
+      "Aerospace",
+      "Automobile",
+      "Biotechnology",
+      "Instrumentation",
+      "Metallurgy",
+      "Other"
+    ],
+    "projects": [
+      {
+        "id": "ce-p1",
+        "title": "CAD Design Project",
+        "techStack": "SolidWorks / AutoCAD",
+        "resumeValue": "High",
+        "url": "https://www.solidworks.com",
+        "uses": [
+          "Proves CAD software proficiency",
+          "Shows a tangible design outcome",
+          "Strong centerpiece for your portfolio"
+        ],
+        "bullet": "Designed and modeled a mechanical component in SolidWorks, including tolerance stack-up and stress analysis"
+      },
+      {
+        "id": "ce-p2",
+        "title": "Automation / Robotics Mini Project",
+        "techStack": "Arduino / PLC / Sensors",
+        "resumeValue": "High",
+        "url": "https://www.arduino.cc",
+        "uses": [
+          "Shows physical prototyping skill",
+          "Strongest hands-on proof available",
+          "Stands out among coursework-only resumes"
+        ],
+        "bullet": "Built an automated control system using Arduino and sensors, demonstrating real-time control logic"
+      },
+      {
+        "id": "ce-p3",
+        "title": "Industry Internship Report",
+        "techStack": "N/A",
+        "resumeValue": "Medium",
+        "url": "https://internshala.com",
+        "uses": [
+          "Shows real production-floor exposure",
+          "Weighed heavily by core recruiters",
+          "Documents measurable improvements"
+        ],
+        "bullet": "Completed an industry internship, documenting process improvements observed on the shop floor"
+      },
+      {
+        "id": "ce-p4",
+        "title": "Finite Element Analysis (FEA) Project",
+        "techStack": "ANSYS",
+        "resumeValue": "High",
+        "url": "https://www.ansys.com/academic",
+        "uses": [
+          "Shows simulation/analysis skill beyond CAD modeling",
+          "Common core-engineering technical round topic",
+          "Backs up structural/thermal design claims"
+        ],
+        "bullet": "Performed structural and thermal FEA simulation on a mechanical component using ANSYS"
+      },
+      {
+        "id": "ce-p5",
+        "title": "3D Printing Prototype",
+        "techStack": "Fusion 360 / 3D printing",
+        "resumeValue": "Medium",
+        "url": "https://www.thingiverse.com",
+        "uses": [
+          "Proves rapid-prototyping skill",
+          "Tangible, demoable outcome",
+          "Shows design-for-manufacturing thinking"
+        ],
+        "bullet": "Designed and 3D-printed a functional prototype part, iterating on the design after test-fitting"
+      },
+      {
+        "id": "ce-p6",
+        "title": "PLC-Based Automation Project",
+        "techStack": "PLC ladder logic",
+        "resumeValue": "High",
+        "url": "https://www.plcacademy.com",
+        "uses": [
+          "Directly matches industrial automation job tasks",
+          "Strong differentiator for EEE/Instrumentation students",
+          "Shows real control-systems thinking"
+        ],
+        "bullet": "Programmed a PLC using ladder logic to automate a simulated industrial process"
+      },
+      {
+        "id": "ce-p7",
+        "title": "Renewable Energy Mini Project",
+        "techStack": "Solar panel / small wind turbine test rig",
+        "resumeValue": "Medium",
+        "url": "https://www.energy.gov",
+        "uses": [
+          "Growing, in-demand core specialization",
+          "Shows applied energy-systems knowledge",
+          "Good fit for EEE/sustainability-focused roles"
+        ],
+        "bullet": "Built and tested a small-scale solar panel/wind turbine setup, measuring efficiency under varying conditions"
+      },
+      {
+        "id": "ce-p8",
+        "title": "MATLAB/Simulink Simulation",
+        "techStack": "MATLAB, Simulink",
+        "resumeValue": "Medium",
+        "url": "https://www.mathworks.com/products/simulink.html",
+        "uses": [
+          "Standard tool across core engineering disciplines",
+          "Shows control-systems/signal-processing modeling skill",
+          "Widely requested in core interviews"
+        ],
+        "bullet": "Built a MATLAB/Simulink model simulating a control system, analyzing its stability and response"
+      },
+      {
+        "id": "ce-p9",
+        "title": "Structural Analysis Case Study",
+        "techStack": "Beam/truss load analysis",
+        "resumeValue": "Medium",
+        "url": "https://nptel.ac.in",
+        "uses": [
+          "Directly relevant for Civil/Structural roles",
+          "Shows applied mechanics fundamentals",
+          "Good fit alongside an FEA project"
+        ],
+        "bullet": "Conducted a structural load analysis on a beam/truss system, verifying results against hand calculations"
+      },
+      {
+        "id": "ce-p10",
+        "title": "Energy Audit Report",
+        "techStack": "Building/plant energy audit",
+        "resumeValue": "Medium",
+        "url": "https://www.energy.gov",
+        "uses": [
+          "Shows practical, real-world engineering application",
+          "Valued in energy/sustainability-focused core roles",
+          "Demonstrates measurable-improvement thinking"
+        ],
+        "bullet": "Conducted an energy audit of a building/plant, identifying and quantifying potential efficiency improvements"
+      }
+    ],
+    "certifications": [
+      {
+        "id": "ce-c1",
+        "name": "Certified SolidWorks Associate (CSWA)",
+        "url": "https://www.solidworks.com/support/certification",
+        "uses": [
+          "Recognized screening checkbox",
+          "Confirms software proficiency",
+          "Backs up your CAD project claims"
+        ],
+        "bullet": "Certified SolidWorks Associate (CSWA) — mechanical design and simulation fundamentals"
+      },
+      {
+        "id": "ce-c2",
+        "name": "Six Sigma Green Belt",
+        "url": "https://asq.org/cert/six-sigma-green-belt",
+        "uses": [
+          "Shows process-improvement skill",
+          "Recognized across core industries",
+          "Strengthens your internship report claims"
+        ],
+        "bullet": "Six Sigma Green Belt Certified — applied DMAIC methodology to a process-improvement case study"
+      },
+      {
+        "id": "ce-c3",
+        "name": "NPTEL Certification (branch-relevant)",
+        "url": "https://nptel.ac.in",
+        "uses": [
+          "Reinforces core subject fundamentals",
+          "Recognized by Indian recruiters",
+          "Fills gaps from limited lab access"
+        ],
+        "bullet": "Completed an NPTEL certification relevant to core specialization, scoring in the top elite band"
+      },
+      {
+        "id": "ce-c4",
+        "name": "ANSYS Certified Associate",
+        "url": "https://www.ansys.com/academic",
+        "uses": [
+          "Directly backs your FEA project",
+          "Recognized simulation-software credential",
+          "Valued in design/analysis-heavy roles"
+        ],
+        "bullet": "ANSYS Certified Associate — structural and thermal simulation fundamentals"
+      },
+      {
+        "id": "ce-c5",
+        "name": "MathWorks MATLAB Certification",
+        "url": "https://www.mathworks.com/certification.html",
+        "uses": [
+          "Backs up your Simulink project",
+          "Recognized across core engineering disciplines",
+          "Useful for control-systems and signal-processing roles"
+        ],
+        "bullet": "MathWorks Certified MATLAB Associate — programming and applied mathematics fundamentals"
+      },
+      {
+        "id": "ce-c6",
+        "name": "AutoCAD Certified User",
+        "url": "https://www.autodesk.com/certification/certified-user",
+        "uses": [
+          "Widely requested baseline credential",
+          "Quick to earn, broadly recognized",
+          "Complements SolidWorks certification"
+        ],
+        "bullet": "AutoCAD Certified User — 2D/3D drafting and design fundamentals"
+      },
+      {
+        "id": "ce-c7",
+        "name": "Certified SolidWorks Professional (CSWP)",
+        "url": "https://www.solidworks.com/support/certification",
+        "uses": [
+          "Advanced tier above CSWA — stronger differentiator",
+          "Shows deeper design and assembly skill",
+          "Valued by design-heavy core employers"
+        ],
+        "bullet": "Working toward Certified SolidWorks Professional (CSWP) — advanced part, assembly, and drawing skills"
+      },
+      {
+        "id": "ce-c8",
+        "name": "LEED Green Associate",
+        "url": "https://www.usgbc.org/credentials/leed-green-associate",
+        "uses": [
+          "Relevant for Civil/sustainability-focused careers",
+          "Recognized internationally",
+          "Shows awareness of green building practices"
+        ],
+        "bullet": "LEED Green Associate — sustainable building design and green construction principles"
+      },
+      {
+        "id": "ce-c9",
+        "name": "Certified Associate in Project Management (CAPM)",
+        "url": "https://www.pmi.org/certifications/certified-associate-capm",
+        "uses": [
+          "Useful for engineering project-management-track roles",
+          "Globally recognized PMI credential",
+          "Complements technical certifications with process knowledge"
+        ],
+        "bullet": "Certified Associate in Project Management (CAPM) — project management fundamentals and terminology"
+      },
+      {
+        "id": "ce-c10",
+        "name": "NPTEL Advanced Certification (second, specialization course)",
+        "url": "https://nptel.ac.in",
+        "uses": [
+          "Shows depth in a specific specialization area",
+          "Low-cost, credible, India-recognized",
+          "Complements your first NPTEL certification"
+        ],
+        "bullet": "Completed a second, more advanced NPTEL certification within core specialization"
+      }
+    ],
+    "resumeTips": [
+      "Name the specific software/tools used (SolidWorks, MATLAB, AutoCAD, ANSYS) explicitly",
+      "Quantify wherever possible — tolerances achieved, load capacity, efficiency improvement",
+      "Include your final year project with a one-line outcome, not just the title",
+      "List any workshops/NPTEL courses relevant to your specialization"
+    ],
+    "interviewQuestions": [
+      {
+        "id": "ce-q1",
+        "question": "Walk me through your final year project.",
+        "tip": "Use STAR — cover the problem, your design choices, and the measurable outcome."
+      },
+      {
+        "id": "ce-q2",
+        "question": "Explain a core concept from your branch (e.g. thermodynamics, circuit theory, structural loads).",
+        "tip": "Keep it simple and correct — interviewers are checking fundamentals, not jargon."
+      },
+      {
+        "id": "ce-q3",
+        "question": "Why do you want to join this company/role?",
+        "tip": "Reference something specific about their products, plants, or engineering focus."
+      },
+      {
+        "id": "ce-q4",
+        "question": "How do you approach solving a technical problem under a deadline?",
+        "tip": "Give a real example — what you prioritized, and what trade-off you made."
+      }
+    ]
+  }
+]
